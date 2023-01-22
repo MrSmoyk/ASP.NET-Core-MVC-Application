@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9Kxa01P5NvFWyDr2wYzTSPnwUdYjx1eSu6H3KBnbe1MHhEH3EXLhWIaSrwIKMmW0mNyS9in7zcQs4dppcASNA==",
+  "dgSpecHash": "1ZR71aF/ftdbFpADnhkh3htfuKUYTZ0M8faHJbE+Ys6LLTVOqP26oCaP2pTXfHOXlZiTP4OE+b8XH7sEnGLz1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MrSmoyk\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\MrSmoyk\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

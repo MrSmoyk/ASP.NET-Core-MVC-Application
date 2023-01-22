@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gun/5cLQrL8ZDO1zoZgR2T3V7McquromrksqWEYnNXZdPqxSFw+gwHDBVF53TAAmPeRIZcUxqfrKcaWGhA/+sA==",
+  "dgSpecHash": "96vYNUAWmKzua/eN76bCoyvKHqZuaT6OyqtJSotmk42/dm44UN6+37ZGBahCpW14JKIEb8koGcdro4FQqkP/Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MrSmoyk\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\MrSmoyk\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",

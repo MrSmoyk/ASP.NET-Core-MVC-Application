@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj": {}
+    "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj": {
+    "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\MrSmoyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MrSmoyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj"
+              "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj": {
+    "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\MrSmoyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MrSmoyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj": {
+    "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj",
+        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj",
         "projectName": "Servise",
-        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj",
+        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj",
         "packagesPath": "C:\\Users\\MrSmoyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Servise\\obj\\",
+        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Servise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MrSmoyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,11 +168,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj"
+              "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj"
+              "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Domain\\Domain.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj": {
+    "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj",
+        "projectUniqueName": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj",
         "projectName": "WEB",
-        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj",
+        "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\WEB\\WEB.csproj",
         "packagesPath": "C:\\Users\\MrSmoyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\WEB\\obj\\",
+        "outputPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\WEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MrSmoyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -248,11 +248,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj"
+              "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj": {
-                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj"
+              "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj": {
+                "projectPath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\ASP.NET-Core-MVC-Application\\Servise\\Servise.csproj"
               }
             }
           }
