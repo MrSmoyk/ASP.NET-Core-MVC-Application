@@ -1,0 +1,56 @@
+﻿@model List<Domain.ViewModels.GroupVM>
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 style="text-align: center;" class="text-primary">Groups List</h2>
+        </div>
+        <div class="col-6 text-right">
+            <a asp-controller="Group" asp-action="Create" class="btn btn-primary">Create new Group</a>
+        </div>
+    </div>
+    <br />
+
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>
+                        Group Name
+                    </th>
+                    <th>
+                        Course
+                    </th>
+                    <th>
+                        Changes
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td width="30%"><a asp-controller="Student" asp-action="GetAllStudents" asp-route-Id="@obj.Id" class="btn btn-primary mx-1">@obj.GroupName</a></td>
+                        <td width="30%">@obj.Course.CourseName</td>
+                        <td width="25%">
+                            <div class="w-100 btn-group" role="group">
+                                <a asp-controller="Group" asp-action="Update" asp-route-Id="@obj.Id" class="btn btn-primary mx-1">Update</a>
+                                <a asp-controller="Group" asp-action="Delete" asp-route-Id="@obj.Id" class="btn btn-danger mx-1">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No groups yet</p>
+    }
+
+</div>
+
+
+
+

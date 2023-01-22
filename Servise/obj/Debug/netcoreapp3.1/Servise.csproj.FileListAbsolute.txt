@@ -1,0 +1,60 @@
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\bin\Debug\netcoreapp3.1\Servise.deps.json
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\bin\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\bin\Debug\netcoreapp3.1\Servise.pdb
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CopyComplete
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Documents\task9\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\bin\Debug\netcoreapp3.1\Servise.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\bin\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\bin\Debug\netcoreapp3.1\Servise.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CopyComplete
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\Task9.2\Servise\obj\Debug\netcoreapp3.1\Servise.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Servise.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Servise.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CopyComplete
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Desktop\To githab\task9-dev\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.pdb
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Servise.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Servise.pdb
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.csproj.CopyComplete
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.dll
+C:\Users\MrSmoyk\Desktop\To githab\ASP.NET Core MVC Application\Servise\obj\Debug\netcoreapp3.1\Servise.pdb

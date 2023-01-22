@@ -1,0 +1,55 @@
+﻿@model Domain.ViewModels.CourseVM
+
+<h1>Create new course</h1>
+<form method="post" asp-action="Create">
+    <div class="border p-3">
+        <div class="form-group row">
+            <h2 class="text-black-50 pl-3">Add New Course</h2>
+        </div>
+        <div class="col">
+            <div class="row-12">
+                <div class="form-group col">
+                    <div class="row-6">
+                        <label asp-for="CourseName"></label>
+                    </div>
+                    <br />
+                    <div class="row-4">
+                        <input asp-for="CourseName" class="form-control" />
+                        <span asp-validation-for="CourseName" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div class="row-6">
+                        <label asp-for="Description"></label>
+                    </div>
+                    <br />
+                    <div class="row-8">
+                        <textarea asp-for="Description" class="form-control"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+
+                </div>
+                <br />
+                <div class="form-group row">
+                    <div class="col-8 offset-2 row">
+                        <div class="col">
+                            <input type="submit" class="btn btn-info w-75" value="Create" />
+                        </div>
+                        <br />
+                        <div class="col">
+                            <a asp-action="GetAllCourses" class="btn btn-danger w-75">Back</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+    }
+
